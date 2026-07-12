@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.data.vic.gov.au/
 common:
+  - type: DomainSecurity
+    url: security/open-government-victoria-state-government-domain-security.yml
   - type: Website
     url: https://www.data.vic.gov.au/
   - type: PublicAPIsListing
