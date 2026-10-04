@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Victoria State Government
     description: "Victoria State Government Open Data"
     humanURL: https://www.data.vic.gov.au/
-    baseURL: https://www.data.vic.gov.au/
     tags:
       - Government
     properties:
